@@ -1,0 +1,8 @@
+.ViewJokes {
+    height: auto;
+    border-radius: 1vh;
+    min-height: 50vh;
+    width: 40%;    
+    background-color: rgba(112, 102, 102, 0.15);
+
+}
