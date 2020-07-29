@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c70d2b5ca90fc4675fe8d77b0eab2268",
+    "revision": "dfeab34beaf96030086508e1556f882c",
     "url": "/JokeTrend/index.html"
   },
   {
-    "revision": "f876a3ec172c9dc8376b",
+    "revision": "265957345ed25296ed47",
     "url": "/JokeTrend/static/css/main.69b88dac.chunk.css"
   },
   {
-    "revision": "6b64fdc36d13fc3232a9",
-    "url": "/JokeTrend/static/js/2.f5601eea.chunk.js"
+    "revision": "0b4824947d955b43d3ce",
+    "url": "/JokeTrend/static/js/2.473d02af.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/JokeTrend/static/js/2.f5601eea.chunk.js.LICENSE.txt"
+    "url": "/JokeTrend/static/js/2.473d02af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f876a3ec172c9dc8376b",
-    "url": "/JokeTrend/static/js/main.10ac10b8.chunk.js"
+    "revision": "265957345ed25296ed47",
+    "url": "/JokeTrend/static/js/main.d2aaa5f8.chunk.js"
   },
   {
     "revision": "fccaaab41496a4da52ac",
